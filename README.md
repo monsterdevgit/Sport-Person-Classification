@@ -8,6 +8,7 @@ The model has been trained on a dataset containing the unique facial characteris
 
 ## How It Works
 Upload: Users can upload a photo of a sports person's face through the application's user-friendly interface.
+![UISCREENSHOT](https://github.com/monsterdevgit/Sport-Person-Facial-Recognition/blob/master/UI/UI%20screenshot.png)
 
 Facial Recognition: The system utilizes facial recognition algorithms to analyze the uploaded image and extract facial features.
 
@@ -17,6 +18,8 @@ Display Results: The system displays the predicted identity along with the proba
 
 ## Deployment using Front End and Python Flask
 The Sport Person Facial Classifier System is deployed using a combination of front-end technologies(HTML, CSS, JS) and the Python Flask framework. Flask provides a powerful backend infrastructure, while the user-friendly front-end components facilitate seamless interaction.
+
+![PROJECTARCHITECTURE](https://github.com/monsterdevgit/Sport-Person-Facial-Recognition/blob/master/Project%20Architecture.png)
 
 To use the application, users can easily upload a photo of a sports person's face and receive instant predictions about their identity.
 
